@@ -1,4 +1,4 @@
-name: Check Dead Links in README
+name: Dead Links Check
 
 on:
   push:
