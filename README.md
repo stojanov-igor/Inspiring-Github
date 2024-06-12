@@ -5,10 +5,6 @@
 
 Sources of inspiration across various fields such as programming, machine learning, data science, web development, and more.
 
-# Inspiring GitHub Repositories
-
-# Inspiring GitHub Repositories
-
 ## Programming and Development
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - A massive repository for learning web development, including interactive coding challenges and projects.
 - [TheAlgorithms](https://github.com/TheAlgorithms/Python) - A collection of algorithms and data structures implemented in Python, also available in other languages.
