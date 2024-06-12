@@ -3,6 +3,9 @@
 
 # Inspiring GitHub Repositories
 
+![Check Dead Links](https://github.com/stojanov-igor/Inspiring-Github/actions/workflows/check-links.yml/badge.svg)
+
+
 Sources of inspiration across various fields such as programming, machine learning, data science, web development, and more.
 
 ## Programming and Development
