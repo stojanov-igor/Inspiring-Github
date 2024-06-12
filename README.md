@@ -26,7 +26,6 @@ Sources of inspiration across various fields such as programming, machine learni
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries, and software.
 - [Keras](https://github.com/keras-team/keras) - Deep learning for humans.
 - [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science and machine learning notebooks for learning and mastering data science.
-- [Deep Learning](https://github.com/Machine-Learning-Tokyo/Deep-Learning-Roadmap) - Roadmap for learning deep learning.
 
 ## Web Development
 - [react](https://github.com/facebook/react) - A JavaScript library for building user interfaces developed by Facebook.
@@ -70,7 +69,6 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Code Newbie](https://github.com/Michael0x2a/curated-programming-resources) - Resources for new coders.
 - [Creative Portfolios](https://github.com/iRaul/creative-portfolios) - A curated list of creative portfolios.
 - [Interactive Visualizations](https://github.com/curran/data) - Interactive visualizations and tutorials.
-- [Coding Music](https://github.com/codingmusic/spotify-coding-music) - Curated list of coding music on Spotify.
 
 ## Analytics and Data Visualization
 - [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
@@ -86,7 +84,6 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
 - [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 - [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-- [Open Web Analytics](http://www.openwebanalytics.com/) - Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications. ([Source Code](https://github.com/Open-Web-Analytics/Open-Web-Analytics)) `GPL-2.0` `PHP`
 - [Plausible Analytics](https://plausible.io/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 - [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
 - [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code](https://github.com/posthog/posthog)) `
