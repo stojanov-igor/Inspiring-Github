@@ -116,6 +116,18 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Stanza](https://stanfordnlp.github.io/stanza/) - A Python natural language analysis package for many human languages. ([Source Code](https://github.com/stanfordnlp/stanza)) `Apache-2.0` `Python`
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in five seconds to generate arbitrary speech in real-time. ([Source Code](https://github.com/CorentinJ/Real-Time-Voice-Cloning)) `MIT` `Python`
 
+## Hidden Gems
+
+- [Basilisk](https://github.com/Basilisk-lang/Basilisk) - An experimental programming language aiming to blend multiple programming paradigms. ([Source Code](https://github.com/Basilisk-lang/Basilisk)) `MIT` `Rust`
+- [MusicBeam](https://musicbeam.org/) - MusicBeam is a digital music festival tool that turns any ordinary room into a laser show. ([Source Code](https://github.com/codingjoe/MusicBeam)) `GPL-3.0` `Java`
+- [OpenDyslexic](https://opendyslexic.org/) - A typeface designed against some common symptoms of dyslexia. ([Source Code](https://github.com/antijingoist/open-dyslexic)) `SIL-OFL-1.1` `Various`
+- [Citybound](http://cityboundsim.com/) - An open-source city simulation game built from scratch. ([Source Code](https://github.com/citybound/citybound)) `AGPL-3.0` `Rust`
+- [Sandspiel](https://sandspiel.club/) - A falling sand game built in Rust and WebGL that simulates the motion of particles. ([Source Code](https://github.com/MaxBittker/sandspiel)) `GPL-3.0` `Rust`
+- [Oscean](https://wiki.xxiivv.com/site/oscean.html) - A personal wiki and diary project designed to operate entirely offline. ([Source Code](https://github.com/XXIIVV/Oscean)) `MIT` `C`
+- [Exa](https://the.exa.website/) - A modern replacement for the command-line tool 'ls' that uses more colors and adds more information. ([Source Code](https://github.com/ogham/exa)) `MIT` `Rust`
+- [Organice](https://www.organicweb.app/) - An implementation of Org mode without the dependency of Emacs - Organize your life in plain text! ([Source Code](https://github.com/200ok-ch/organice)) `GPL-3.0` `JavaScript`
+- [Sick Codes](https://sick.codes/) - A collection of daring hacks for hardware and software, including tutorials and showcases. ([Source Code](https://github.com/sickcodes)) `Various` `Various`
+- [Awesome-Privacy](https://github.com/KevinColemanInc/awesome-privacy) - A curated list of services and alternatives that respect your privacy because privacy matters. ([Source Code](https://github.com/KevinColemanInc/awesome-privacy)) `CC0-1.0` `Markdown`
 
 
 These repositories not only offer valuable resources and tools but also serve as excellent examples of well-organized and high-quality projects. 
