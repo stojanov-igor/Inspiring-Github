@@ -91,6 +91,19 @@ Sources of inspiration across various fields such as programming, machine learni
 - [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
 - [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code](https://github.com/posthog/posthog)) `
 
+## UI Design
+- [Material Design Icons](https://material.io/resources/icons/) - An icon collection that complements Google's Material Design language. ([Source Code](https://github.com/google/material-design-icons)) `Apache-2.0` `Various`
+- [Ant Design](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience. ([Source Code](https://github.com/ant-design/ant-design)) `MIT` `JavaScript`
+- [Blueprint](https://blueprintjs.com/) - A React-based UI toolkit for the web optimized for building complex data-dense interfaces for desktop applications. ([Source Code](https://github.com/palantir/blueprint)) `Apache-2.0` `TypeScript`
+- [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ([Source Code](https://github.com/chakra-ui/chakra-ui)) `MIT` `JavaScript`
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs. ([Source Code](https://github.com/tailwindlabs/tailwindcss)) `MIT` `CSS`
+- [Storybook](https://storybook.js.org/) - An open-source tool for developing UI components in isolation for React, Vue, and Angular. ([Source Code](https://github.com/storybookjs/storybook)) `MIT` `JavaScript`
+- [Figma-to-Code](https://www.figma.com/community/plugin/747985167520967365/Figma-to-Code) - An open-source Figma plugin that converts Figma designs into responsive web code. ([Source Code](https://github.com/gridaco/figma-to-code)) `MIT` `TypeScript`
+- [Eva Design System](https://eva.design/) - Deep learning color generator and a set of design tools; but also a design system that uses deep learning to search through a massive dataset of images. ([Source Code](https://github.com/akveo/eva-design)) `MIT` `Various`
+- [Design Systems Repo](https://designsystemsrepo.com/) - A collection of design systems, pattern libraries, and everything in between. ([Source Code](https://github.com/alexpate/awesome-design-systems)) `MIT` `Markdown`
+- [Primer](https://primer.style/) - The design system that powers GitHub. ([Source Code](https://github.com/primer/css)) `MIT` `CSS`
+
+
 
 These repositories not only offer valuable resources and tools but also serve as excellent examples of well-organized and high-quality projects. 
 
