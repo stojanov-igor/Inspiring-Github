@@ -104,6 +104,19 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Primer](https://primer.style/) - The design system that powers GitHub. ([Source Code](https://github.com/primer/css)) `MIT` `CSS`
 
 
+## AI and Large Language Models (LLMs)
+- [Hugging Face Transformers](https://huggingface.co/transformers/) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. ([Source Code](https://github.com/huggingface/transformers)) `Apache-2.0` `Python`
+- [OpenAI GPT-3](https://openai.com/blog/gpt-3/) - An autoregressive language model that uses deep learning to produce human-like text. ([Source Code](https://github.com/openai/gpt-3)) `Commercial` `Python`
+- [EleutherAI GPT-Neo](https://www.eleuther.ai/) - An implementation of model similar to GPT-3, but created as an open-source project. ([Source Code](https://github.com/EleutherAI/gpt-neo)) `MIT` `Python`
+- [Google Research BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT (Bidirectional Encoder Representations from Transformers). ([Source Code](https://github.com/google-research/bert)) `Apache-2.0` `Python`
+- [Fairseq](https://fairseq.readthedocs.io/en/latest/) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. ([Source Code](https://github.com/pytorch/fairseq)) `MIT` `Python`
+- [DeepSpeed](https://www.deepspeed.ai/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. ([Source Code](https://github.com/microsoft/DeepSpeed)) `MIT` `Python`
+- [T5 (Text-To-Text Transfer Transformer)](https://github.com/google-research/text-to-text-transfer-transformer) - Exploring the limits of transfer learning with a unified text-to-text transformer. ([Source Code](https://github.com/google-research/text-to-text-transfer-transformer)) `Apache-2.0` `Python`
+- [AllenNLP](https://allennlp.org/) - An open-source NLP research library, built on PyTorch. ([Source Code](https://github.com/allenai/allennlp)) `Apache-2.0` `Python`
+- [Stanza](https://stanfordnlp.github.io/stanza/) - A Python natural language analysis package for many human languages. ([Source Code](https://github.com/stanfordnlp/stanza)) `Apache-2.0` `Python`
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in five seconds to generate arbitrary speech in real-time. ([Source Code](https://github.com/CorentinJ/Real-Time-Voice-Cloning)) `MIT` `Python`
+
+
 
 These repositories not only offer valuable resources and tools but also serve as excellent examples of well-organized and high-quality projects. 
 
