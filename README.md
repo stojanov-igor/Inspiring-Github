@@ -92,21 +92,17 @@ Sources of inspiration across various fields such as programming, machine learni
 - [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code](https://github.com/posthog/posthog)) `
 
 ## UI Design
-- [Material Design Icons](https://material.io/resources/icons/) - An icon collection that complements Google's Material Design language. ([Source Code](https://github.com/google/material-design-icons)) `Apache-2.0` `Various`
 - [Ant Design](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience. ([Source Code](https://github.com/ant-design/ant-design)) `MIT` `JavaScript`
 - [Blueprint](https://blueprintjs.com/) - A React-based UI toolkit for the web optimized for building complex data-dense interfaces for desktop applications. ([Source Code](https://github.com/palantir/blueprint)) `Apache-2.0` `TypeScript`
 - [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ([Source Code](https://github.com/chakra-ui/chakra-ui)) `MIT` `JavaScript`
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs. ([Source Code](https://github.com/tailwindlabs/tailwindcss)) `MIT` `CSS`
 - [Storybook](https://storybook.js.org/) - An open-source tool for developing UI components in isolation for React, Vue, and Angular. ([Source Code](https://github.com/storybookjs/storybook)) `MIT` `JavaScript`
-- [Figma-to-Code](https://www.figma.com/community/plugin/747985167520967365/Figma-to-Code) - An open-source Figma plugin that converts Figma designs into responsive web code. ([Source Code](https://github.com/gridaco/figma-to-code)) `MIT` `TypeScript`
-- [Eva Design System](https://eva.design/) - Deep learning color generator and a set of design tools; but also a design system that uses deep learning to search through a massive dataset of images. ([Source Code](https://github.com/akveo/eva-design)) `MIT` `Various`
 - [Design Systems Repo](https://designsystemsrepo.com/) - A collection of design systems, pattern libraries, and everything in between. ([Source Code](https://github.com/alexpate/awesome-design-systems)) `MIT` `Markdown`
 - [Primer](https://primer.style/) - The design system that powers GitHub. ([Source Code](https://github.com/primer/css)) `MIT` `CSS`
 
 
 ## AI and Large Language Models (LLMs)
 - [Hugging Face Transformers](https://huggingface.co/transformers/) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. ([Source Code](https://github.com/huggingface/transformers)) `Apache-2.0` `Python`
-- [OpenAI GPT-3](https://openai.com/blog/gpt-3/) - An autoregressive language model that uses deep learning to produce human-like text. ([Source Code](https://github.com/openai/gpt-3)) `Commercial` `Python`
 - [EleutherAI GPT-Neo](https://www.eleuther.ai/) - An implementation of model similar to GPT-3, but created as an open-source project. ([Source Code](https://github.com/EleutherAI/gpt-neo)) `MIT` `Python`
 - [Google Research BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT (Bidirectional Encoder Representations from Transformers). ([Source Code](https://github.com/google-research/bert)) `Apache-2.0` `Python`
 - [Fairseq](https://fairseq.readthedocs.io/en/latest/) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. ([Source Code](https://github.com/pytorch/fairseq)) `MIT` `Python`
@@ -117,15 +113,11 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in five seconds to generate arbitrary speech in real-time. ([Source Code](https://github.com/CorentinJ/Real-Time-Voice-Cloning)) `MIT` `Python`
 
 ## Hidden Gems
-
-- [Basilisk](https://github.com/Basilisk-lang/Basilisk) - An experimental programming language aiming to blend multiple programming paradigms. ([Source Code](https://github.com/Basilisk-lang/Basilisk)) `MIT` `Rust`
-- [MusicBeam](https://musicbeam.org/) - MusicBeam is a digital music festival tool that turns any ordinary room into a laser show. ([Source Code](https://github.com/codingjoe/MusicBeam)) `GPL-3.0` `Java`
 - [OpenDyslexic](https://opendyslexic.org/) - A typeface designed against some common symptoms of dyslexia. ([Source Code](https://github.com/antijingoist/open-dyslexic)) `SIL-OFL-1.1` `Various`
 - [Citybound](http://cityboundsim.com/) - An open-source city simulation game built from scratch. ([Source Code](https://github.com/citybound/citybound)) `AGPL-3.0` `Rust`
 - [Sandspiel](https://sandspiel.club/) - A falling sand game built in Rust and WebGL that simulates the motion of particles. ([Source Code](https://github.com/MaxBittker/sandspiel)) `GPL-3.0` `Rust`
 - [Oscean](https://wiki.xxiivv.com/site/oscean.html) - A personal wiki and diary project designed to operate entirely offline. ([Source Code](https://github.com/XXIIVV/Oscean)) `MIT` `C`
 - [Exa](https://the.exa.website/) - A modern replacement for the command-line tool 'ls' that uses more colors and adds more information. ([Source Code](https://github.com/ogham/exa)) `MIT` `Rust`
-- [Organice](https://www.organicweb.app/) - An implementation of Org mode without the dependency of Emacs - Organize your life in plain text! ([Source Code](https://github.com/200ok-ch/organice)) `GPL-3.0` `JavaScript`
 - [Sick Codes](https://sick.codes/) - A collection of daring hacks for hardware and software, including tutorials and showcases. ([Source Code](https://github.com/sickcodes)) `Various` `Various`
 - [Awesome-Privacy](https://github.com/KevinColemanInc/awesome-privacy) - A curated list of services and alternatives that respect your privacy because privacy matters. ([Source Code](https://github.com/KevinColemanInc/awesome-privacy)) `CC0-1.0` `Markdown`
 
