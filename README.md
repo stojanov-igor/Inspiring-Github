@@ -63,8 +63,6 @@ Sources of inspiration across various fields such as programming, machine learni
 - [SecureDrop](https://github.com/freedomofpress/securedrop) - An open-source whistleblower submission system that media organizations can use to securely accept documents from anonymous sources.
 - [qTox](https://github.com/qTox/qTox) - A secure, privacy-focused, and free peer-to-peer instant messaging and video calling application.
 - [Privacy Badger](https://github.com/EFForg/privacybadger) - A browser extension that automatically learns to block invisible trackers.
-- [Tails](https://github.com/TailsOS/tails) - A live operating system that aims to preserve your privacy and anonymity, helping you to use the Internet anonymously and leave no trace on the computer you're using.
-
 
 ## Tools and Utilities
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful, open-source, community-driven framework for managing your Zsh configuration.
