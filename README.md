@@ -53,6 +53,19 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Packer](https://github.com/hashicorp/packer) - A tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Vagrant](https://github.com/hashicorp/vagrant) - A tool for building and managing virtual machine environments in a single workflow, with a focus on automation.
 
+## Security and Privacy
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - The OWASP Zed Attack Proxy (ZAP) is an open-source web application security scanner, designed to find security vulnerabilities in web applications.
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - A powerful, open-source penetration testing framework that helps security teams find, exploit, and validate vulnerabilities.
+- [Wireshark](https://github.com/wireshark/wireshark) - A network protocol analyzer that enables you to capture and interactively browse the traffic running on a computer network.
+- [OpenVPN](https://github.com/OpenVPN/openvpn) - Open-source VPN protocol for creating secure point-to-point or site-to-site connections in routed or bridged configurations.
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - A community fork of KeePassX, the cross-platform port of KeePass for secure password management.
+- [GnuPG](https://github.com/gpg/gnupg) - The GNU Privacy Guard (GnuPG or GPG) allows you to encrypt and sign your data and communications.
+- [SecureDrop](https://github.com/freedomofpress/securedrop) - An open-source whistleblower submission system that media organizations can use to securely accept documents from anonymous sources.
+- [qTox](https://github.com/qTox/qTox) - A secure, privacy-focused, and free peer-to-peer instant messaging and video calling application.
+- [Privacy Badger](https://github.com/EFForg/privacybadger) - A browser extension that automatically learns to block invisible trackers.
+- [Tails](https://github.com/TailsOS/tails) - A live operating system that aims to preserve your privacy and anonymity, helping you to use the Internet anonymously and leave no trace on the computer you're using.
+
+
 ## Tools and Utilities
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful, open-source, community-driven framework for managing your Zsh configuration.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of software that can be hosted locally.
