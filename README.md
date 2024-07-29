@@ -41,6 +41,18 @@ Sources of inspiration across various fields such as programming, machine learni
 - [Svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps.
 - [Django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
+## DevOps and Infrastructure
+- [Ansible](https://github.com/ansible/ansible) - An open-source automation tool for IT tasks like configuration management, application deployment, and task automation.
+- [Terraform](https://github.com/hashicorp/terraform) - Infrastructure as Code (IaC) tool that allows you to define and provide data center infrastructure using a high-level configuration language.
+- [Prometheus](https://github.com/prometheus/prometheus) - A systems and service monitoring system that collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if a condition is observed to be true.
+- [Grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability, providing visualization and analysis of metrics.
+- [Jenkins](https://github.com/jenkinsci/jenkins) - An open-source automation server that helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+- [Kubernetes](https://github.com/kubernetes/kubernetes) - An open-source system for automating the deployment, scaling, and management of containerized applications.
+- [ElasticSearch](https://github.com/elastic/elasticsearch) - A distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
+- [Consul](https://github.com/hashicorp/consul) - A service networking tool that provides a full-featured control plane with service discovery, configuration, and segmentation functionality.
+- [Packer](https://github.com/hashicorp/packer) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+- [Vagrant](https://github.com/hashicorp/vagrant) - A tool for building and managing virtual machine environments in a single workflow, with a focus on automation.
+
 ## Tools and Utilities
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful, open-source, community-driven framework for managing your Zsh configuration.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of software that can be hosted locally.
